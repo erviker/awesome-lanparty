@@ -14,8 +14,6 @@ A LAN party is a gathering of people with computers or compatible game consoles,
 ## Country
 ### Norway
 
--[bLAN](http://blan.no)
-
--[Polarparty](http://polarparty.no/)
-
--[The Gathering](www.gathering.org/)
+- [bLAN](http://blan.no)
+- [Polarparty](http://polarparty.no/)
+- [The Gathering](www.gathering.org/)
